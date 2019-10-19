@@ -1,0 +1,19 @@
+.users {
+  color: #808080;
+}
+
+.users--active {
+  color: #0026ff;
+}
+
+.users__item {
+  font-size: 14px;
+}
+
+.users__item--admin {
+  color: #ff0000;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=estilo.css.map */

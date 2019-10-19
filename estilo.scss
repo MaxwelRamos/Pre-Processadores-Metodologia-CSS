@@ -1,0 +1,23 @@
+$grey: #808080;
+$blue: #0026ff;
+$red: #ff0000;
+$font: 14px;
+
+.users {
+	color: $grey;
+}
+.users--active {
+	color: $blue;
+}
+.users__item {
+    font: {
+        size: $font;
+    }
+}
+.users__item--admin {
+    color: $red;
+    font: {
+        size: $font + 2;
+        weight: bold;
+    }
+}
